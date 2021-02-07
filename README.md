@@ -1,11 +1,7 @@
-## JavaScript Advanced - Curs 6
+## Conceptele invata la Cursul de JSAdvanced
+* folosirea Git si GitHub
+* rutarea pe partea de client ( folosind React Router )
+* folosirea unui framework de CSS: BootStrap
+* preluarea si utilizarea de imagini ( JPG,PNG , SVG )
 
-Pentru a rula aceasta etapa (in linie de comanda):
-
-#### 1. `git clone https://github.com/razvancir96/react-curs06.git`
-
-#### 2. `cd react-curs06`
-
-#### 3. `npm install` (posibil sa dureze)
-
-#### 4. `npm start`
+TO BE CONTINUED

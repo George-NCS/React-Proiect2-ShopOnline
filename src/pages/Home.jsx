@@ -3,6 +3,7 @@ import Layout from '../components/Layout';
 import products from '../utils/products.json';
 import HomeCategory from '../components/HomeCategory';
 
+
 class Home extends React.Component{
     constructor() {
         super();

@@ -1,12 +1,12 @@
 {
-    "shoes": {
+    "deserturi-franta": {
         "items": [
             {
                 "id": 1,
-                "name": "Sneakerși piele Massimo Dutti",
+                "name": "Choux Chantilly",
                 "price": 135,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/Rz8lVQa.jpg",
+                "image": "https://i.imgur.com/H72H4cp.jpg",
                 "size": 45,
                 "colour": "Negru",
                 "material": "Piele",
@@ -15,10 +15,10 @@
             },
             {
                 "id": 2,
-                "name": "Teniși negri Polo Ralph Lauren",
+                "name": "Macarons",
                 "price": 100,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/Og3Oh24.jpg",
+                "image": "https://i.imgur.com/2bACi2a.jpg",
                 "size": 45,
                 "colour": "Negru",
                 "material": "Pânză",
@@ -27,10 +27,10 @@
             },
             {
                 "id": 3,
-                "name": "Ghete din piele maro Massimo",
+                "name": "Moelleux au chocolat",
                 "price": 185,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/zoqSu87.jpg",
+                "image": "https://i.imgur.com/85vJ7T5.jpg",
                 "size": 45,
                 "colour": "Maro",
                 "material": "Piele",
@@ -38,18 +38,18 @@
                 "description": "Ghete maro din piele, din colecția de toamnă-iarnă 2017, Massimo Dutti."
             }
         ],
-        "image": "https://i.imgur.com/X0qldXO.jpg",
-        "name": "Încălțăminte",
-        "description": "Ghete, pantofi, sneakerși: finețe garantată!"
+        "image": "https://i.imgur.com/awH3NM1.jpg?2",
+        "name": "Deserturi din Franta",
+        "description": "Choux Chantilly, Macarons,Moelleux au chocolat "
     },
-    "sweaters": {
+    "deserturi-italia": {
         "items": [
             {
                 "id": 4,
-                "name": "Pulovăr finuț cu guler",
+                "name": "Cannol",
                 "price": 95,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/6afzuEr.jpg",
+                "image": "https://i.imgur.com/4inKslC.jpg",
                 "size": "L",
                 "colour": "Maro",
                 "material": "Cașmir",
@@ -58,10 +58,10 @@
             },
             {
                 "id": 5,
-                "name": "Pulovăr multicolor",
+                "name": "Tiramisu",
                 "price": 105,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/s0VytKc.jpg",
+                "image": "https://i.imgur.com/iXzj1NY.jpg",
                 "size": "L",
                 "colour": "Multicolor",
                 "material": "Bumbac",
@@ -70,41 +70,29 @@
             },
             {
                 "id": 6,
-                "name": "Pulovăr călduros și frumos",
+                "name": "Mini Panettone",
                 "price": 165,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/BWGgzlK.jpg",
+                "image": "https://i.imgur.com/r2MlVXl.jpg",
                 "size": "L",
                 "colour": "Multicolor",
                 "material": "Lână",
                 "brand": "SELECTED",
                 "description": "Pulovăr din lână, în carouri, colecția toamnă-iarnă 2019, SELECTED."
-            },
-            {
-                "id": 7,
-                "name": "Pulovăr din lână",
-                "price": 160,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/dTcMbHT.jpg",
-                "size": "L",
-                "colour": "Crem",
-                "material": "Lână",
-                "brand": "Massimo Dutti",
-                "description": "Pulovăr din lână cu model, colecția toamnă-iarnă 2019, Massimo Dutti."
-            }
+            }    
         ],
-        "image": "https://i.imgur.com/SZU7liE.jpg",
-        "name": "Pulovere",
+        "image": "https://i.imgur.com/h0ur4AW.jpg",
+        "name": "Deserturi din Italia",
         "description": "Pulovărașe elegănțele, slim, clasă superioară."
     },
-    "pants": {
+    "deserturi-anglia": {
         "items": [
             {
                 "id": 8,
-                "name": "Blugi bleumarin slim fit",
+                "name": "Eton Mess",
                 "price": 35,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/VhpATO8.jpg",
+                "image": "https://i.imgur.com/rFNm9iT.jpg",
                 "size": "34",
                 "colour": "Bleumarin închis",
                 "material": "Blug",
@@ -113,10 +101,10 @@
             },
             {
                 "id": 9,
-                "name": "Blugi negri slim fit",
+                "name": "Budinca cu sos cameralizat",
                 "price": 40,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/weiI07t.jpg",
+                "image": "https://i.imgur.com/zhxEA43.jpg",
                 "size": "34",
                 "colour": "Negru-gri",
                 "material": "Blug",
@@ -124,18 +112,18 @@
                 "description": "Blugi negri, slim fit, colecția toamnă-iarnă 2019, DS Damat."
             }
         ],
-        "image": "https://i.imgur.com/srQCDRN.jpg",
-        "name": "Pantaloni/blugi",
-        "description": "Jeanși și pantaloni pentru baieții care și-o ard patroni!"
+        "image": "https://i.imgur.com/oL3BHON.jpg",
+        "name": "Deserturi din Anglia",
+        "description": "Eton Mess si Budinca cu sos cameralizat"
     },
-    "jackets": {
+    "deserturi-romania": {
         "items": [
             {
                 "id": 10,
-                "name": "Haină lungă din lână virgină",
+                "name": "Rulouri Romanesti",
                 "price": 210,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/IXrZitQ.jpg",
+                "image": "https://i.imgur.com/Pyallso.jpg",
                 "size": "L",
                 "colour": "Gri închis",
                 "material": "Lână virgină",
@@ -144,10 +132,10 @@
             },
             {
                 "id": 11,
-                "name": "Geacă bleumarin cu glugă detașabilă",
+                "name": "Pasca",
                 "price": 250,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/eCZd7PU.jpg",
+                "image": "https://i.imgur.com/TJ2qKJc.jpg",
                 "size": "L",
                 "colour": "Bleumarin",
                 "material": "Poliester",
@@ -155,18 +143,18 @@
                 "description": "Geacă bleumarin cu glugă detașabilă, colecția toamnă-iarnă 2019, DS Damat."
             }
         ],
-        "image": "https://i.imgur.com/81I6Oab.jpg",
-        "name": "Geci/Haine",
-        "description": "Confortabile, călduroase și nu arăți ca un cartof!"
+        "image": "https://i.imgur.com/Kt2vYl1.jpg",
+        "name": "Deserturi din Romania",
+        "description": "Rulouri romanesti, Pasca"
     },
-    "tshirts": {
+    "deserturi-turcia": {
         "items": [
             {
                 "id": 12,
-                "name": "Tricou în dungi",
+                "name": "Baklava",
                 "price": 90,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/BWvzCwB.jpg",
+                "image": "https://i.imgur.com/V0oeQkd.jpg",
                 "size": "L",
                 "colour": "Multicolor",
                 "material": "Bumbac",
@@ -175,10 +163,10 @@
             },
             {
                 "id": 13,
-                "name": "Tricou de ping pong",
+                "name": "Halva cu fistic",
                 "price": 110,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/4BbF4TO.jpg",
+                "image": "https://i.imgur.com/TnFgMWu.jpg",
                 "size": "L",
                 "colour": "Roșu",
                 "material": "Poliester",
@@ -187,10 +175,10 @@
             },
             {
                 "id": 14,
-                "name": "Tricou original BVB cu autograf",
+                "name": "Budinca turceasca cu gris",
                 "price": 1909,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/etIsbHV.jpg",
+                "image": "https://i.imgur.com/GhWlkhY.jpg",
                 "size": "L",
                 "colour": "Galben-Negru",
                 "material": "Poliester",
@@ -198,18 +186,18 @@
                 "description": "Tricoul purtat de Borussia Dortmund în sezonul competițional 2018-2019, cu numarul 7 și numele 'SANCHO'. Tricoul este semnat de portarul Borussiei, Roman Burki."
             }
         ],
-        "image": "https://i.imgur.com/l27WtFL.jpg",
-        "name": "Tricouri",
-        "description": "Și de băiețeală și de sport."
+        "image": "https://i.imgur.com/v74nxOc.jpg",
+        "name": "Deserturi din Turcia",
+        "description": "Baklava, Halva cu fistic, Budinca turceasca cu gris"
     },
     "accesories": {
         "items": [
             {
                 "id": 15,
-                "name": "Fular TJ cu două fețe",
+                "name": "Gogosi grecesti",
                 "price": 85,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/rSVUiLO.jpg",
+                "image": "https://i.imgur.com/DJNdiWC.jpg",
                 "size": "Universal",
                 "colour": "Gri-Bleumarin",
                 "material": "Cașmir",
@@ -218,10 +206,10 @@
             },
             {
                 "id": 16,
-                "name": "Mănuși din piele",
+                "name": "Desert grecesc cu iaurt",
                 "price": 60,
                 "currency": "LEI",
-                "image": "https://i.imgur.com/LbjGaZ1.jpg",
+                "image": "https://i.imgur.com/8B7Mp0t.jpg",
                 "size": "L",
                 "colour": "Negru",
                 "material": "Piele",
@@ -229,8 +217,8 @@
                 "description": "Mănuși din piele, cu model, din colecția toamnă-iarnă 2018, DS Damat."
             }
         ],
-        "image": "https://i.imgur.com/qw3wDj8.jpg",
-        "name": "Accesorii",
+        "image": "https://i.imgur.com/EclT0dj.png",
+        "name": "Deserturi din Grecia",
         "description": "Fulare, căciuli, mănuși: nu mai sta pe gânduri, cumpără-le acuși!"
     }
 }

@@ -1,4 +1,4 @@
-## Conceptele invata la Cursul de JSAdvanced
+## Conceptele de la Cursul de JS-AdvancedReact
 * folosirea Git si GitHub
 * rutarea pe partea de client ( folosind React Router )
 * folosirea unui framework de CSS: BootStrap

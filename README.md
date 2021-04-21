@@ -10,7 +10,7 @@ TO BE CONTINUED
 
 1. `git clone https://github.com/George-NCS/React-Proiect2-ShopOnline.git`
 
-2. `cd react-proiect2-shoptOnline`
+2. `cd react-proiect2-ShopOnline`
 
 3. `npm install` (posibil sa dureze)
 
